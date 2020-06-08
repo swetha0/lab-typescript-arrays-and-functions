@@ -3,7 +3,7 @@ import { ArrayService } from "./app-service";
 export class ArrayComponent implements ArrayService {
 
     constructor() {}
-
+    
     public arrayMultiply(myArray: number[]) : Array<Number> {
         let temp = [], j=0;
         for(var i=0;i<myArray.length;i++){
