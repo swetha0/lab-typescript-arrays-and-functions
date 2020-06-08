@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+exports.ArrayComponent = void 0;
 var ArrayComponent = /** @class */ (function () {
     function ArrayComponent() {
     }
